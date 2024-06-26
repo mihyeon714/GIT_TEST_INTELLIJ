@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40a8edc4-5409-4df7-9baa-72f896fa9130" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/src/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feauture/1",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PMH/IdeaProjects/myeon_git_test",
+    "settings.editor.selected.configurable": "terminal",
     "애플리케이션.Test1.executor": "Run"
   }
 }]]></component>
