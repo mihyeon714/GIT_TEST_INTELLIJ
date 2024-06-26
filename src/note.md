@@ -24,21 +24,21 @@
 ------------------
 ------------------
 
-*git merge 실습 
-*회사에서 encoding UTF-8 로 해당 파일 수정 후 push 
-*집에서 페치 및 머지 실행 
-*git fetch origin feauture/1
-*git merge FETCH_HEAD feauture/1
-*merge 작업중 충돌 오류 발생 > 충돌해결하기 파일갔더니 비교해줘서 걍 골라서 저장했다 
-*그리고 터미널에 상태가 feauture/1|MERGING 상태길래 자세히 읽어보았더니 git commit 을 해서 merge를 종료하라는 내용이었음 
-*자꾸 workspace.xml 상태가 바뀌는데 저거는 JAVA PROJECT 생성했을때 알아서 멋대로 바뀌는 그런애 같음 아직 뭔지 모르겠음 
+* git merge 실습 
+* 회사에서 encoding UTF-8 로 해당 파일 수정 후 push 
+* 집에서 페치 및 머지 실행 
+* git fetch origin feauture/1
+* git merge FETCH_HEAD feauture/1
+* merge 작업중 충돌 오류 발생 > 충돌해결하기 파일갔더니 비교해줘서 걍 골라서 저장했다 
+* 그리고 터미널에 상태가 feauture/1|MERGING 상태길래 자세히 읽어보았더니 git commit 을 해서 merge를 종료하라는 내용이었음 
+* 자꾸 workspace.xml 상태가 바뀌는데 저거는 JAVA PROJECT 생성했을때 알아서 멋대로 바뀌는 그런애 같음 아직 뭔지 모르겠음 
 ------------------
 ------------------
-*git merge 학습 
-*git fetch 는 원격저장소의 정보를 가져와서 포인터만 형성된 상태로 아직 로컬 저장소에 반영된 상태는 아님 
-*git merge 작업으로 로컬에 반영할 수 있음 
-*git merge 시 충돌은 피할 수 없는 운명인 것 같기도함 
+* git merge 학습 
+* git fetch 는 원격저장소의 정보를 가져와서 포인터만 형성된 상태로 아직 로컬 저장소에 반영된 상태는 아님 
+* git merge 작업으로 로컬에 반영할 수 있음 
+* git merge 시 충돌은 피할 수 없는 운명인 것 같기도함 
 ------------------
-*병합 방식
-*Fast-Foward 병합
-*3-Way병함
+* 병합 방식
+* Fast-Foward 병합
+* 3-Way병함
