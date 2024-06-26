@@ -11,3 +11,9 @@
 
 ------------------
 
+* git clone 실습1
+* git clone https://github.com/[USERNAME]/[PROJECTNAME].git
+* clone 중 오류 : SSL certificate problem: self-signed certificate in certificate chain
+* intellj에서 오류가 생겨서 터미널 접근을 못해서 git bash 로 터미널열어서 명령어 실행 
+* git config --global http.sslVerify false
+* 
